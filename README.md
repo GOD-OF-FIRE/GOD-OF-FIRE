@@ -8,7 +8,7 @@ I'm __KUSHAGRA GUPTA__, 3rd Year __BTech__ Student in __Computer Science Enginee
 - I like __Gaming__ and __Sketching__ apart from technical interests.
 - I do competitive coding and explore Data Science concepts. 
 - I enjoy collaborating with people on works of similar interest.
-- &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.
+- I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## You can reach me on :point_down:
