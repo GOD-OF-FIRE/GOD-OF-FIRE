@@ -11,7 +11,7 @@ I'm __KUSHAGRA GUPTA__, 3rd Year __BTech__ Student in __Computer Science Enginee
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## You can Reach me on :point_down:
+## You can reach me on :point_down:
 [![Foo](Logos1/1.png)](https://www.hackerrank.com/kushagra357)
 [![Foo](Logos1/2.png)](https://www.facebook.com/kushagra.gupta.0508/)
 [![Foo](Logos1/3.png)](https://twitter.com/kushagra357)
