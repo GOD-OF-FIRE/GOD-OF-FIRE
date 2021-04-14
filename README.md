@@ -9,7 +9,7 @@ I'm __KUSHAGRA GUPTA__, 3rd Year __BTech__ Student in __Computer Science Enginee
 - I do competitive coding and explore Data Science concepts. 
 - I enjoy collaborating with people on works of similar interest.
 - I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.
-- You can email me at ____kushgra357@gmail.com____. I'll try to respond as soon as possible!\
+- You can email me at ____kushgra357@gmail.com____. I'll try to respond as soon as possible!.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## You can reach me on :point_down:
