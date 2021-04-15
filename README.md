@@ -1,8 +1,9 @@
 ![](mine.jpeg)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=godoffirekg&color=green)
+
 <h1 align="center">Hi 👋, I'm Kushagra Gupta </h1>
 
+## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=godoffirekg&color=green)
 💡 &nbsp; Hello everyone,<br>
 I'm __KUSHAGRA GUPTA__, 3rd Year __BTech__ Student in __Computer Science Engineering__ at __SRM Institute of Science and Technology__.
 - I like __Gaming__ and __Sketching__ apart from technical interests.
