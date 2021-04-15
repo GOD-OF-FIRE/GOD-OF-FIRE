@@ -1,7 +1,7 @@
 ![](mine.jpeg)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1 align="center">Hi👋, I'm Kushagra Gupta </h1>
+<h1 align="center"> Kushagra Gupta </h1>
 
 ## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=godoffirekg&color=green)
 &nbsp; Hello everyone,<br>
