@@ -25,3 +25,4 @@ I'm __KUSHAGRA GUPTA__, 3rd Year __BTech__ Student in __Computer Science Enginee
 ## GitHub Stats 🏅
 <img align="left" alt="Kushagra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=godoffirekg&&show_icons=true&theme=dracula" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=godoffirekg&hide=java&layout=compact&theme=dracula" width="46%" />
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=godoffirekg&theme=dracula" width="98%">
