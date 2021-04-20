@@ -5,7 +5,7 @@
 
 ## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=godoffirekg&color=green)  [![GitHub godoffirekg](https://img.shields.io/github/followers/godoffirekg?label=follow&style=social)](https://github.com/godoffirekg)&nbsp;
 &nbsp; Hello everyone,<br>
-I'm __KUSHAGRA GUPTA__, 3rd Year __BTech__ Student in __Computer Science Engineering__ at __SRM Institute of Science and Technology__.
+I'm __KUSHAGRA GUPTA__, Third Year __BTech__ Student in __Computer Science Engineering__ at __SRM Institute of Science and Technology__.
 - I like __Gaming__ and __Sketching__ apart from technical interests.
 - I do competitive coding and explore Data Science concepts. 
 - I enjoy collaborating with people on works of similar interest.
