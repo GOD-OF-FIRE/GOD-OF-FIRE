@@ -3,7 +3,7 @@
 
 <h1 align="center"> Kushagra Gupta </h1>
 
-## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=godoffirekg&color=green)  [![GitHub godoffirekg](https://img.shields.io/github/followers/godoffirekg?label=follow&style=social)](https://github.com/godoffirekg)&nbsp;
+## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=GOD-OF-FIRE&color=green)  [![GitHub GOD-OF-FIRE](https://img.shields.io/github/followers/GOD-OF-FIRE?label=follow&style=social)](https://github.com/GOD-OF-FIRE)&nbsp;
 &nbsp; Hello everyone,<br>
 I'm __KUSHAGRA GUPTA__, 3rd __BTech__ Student in __Computer Science Engineering__ at __SRM Institute of Science and Technology__.
 - I like __Gaming__ and __Sketching__ apart from technical interests.
@@ -23,6 +23,6 @@ I'm __KUSHAGRA GUPTA__, 3rd __BTech__ Student in __Computer Science Engineering_
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/kushagra-gupta-5a92a812a/)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## GitHub Stats 🏅
-<img align="left" alt="Kushagra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=godoffirekg&&show_icons=true&theme=dracula" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=godoffirekg&hide=java&layout=compact&theme=dracula" width="46%" />
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=godoffirekg&theme=dracula" width="98%">
+<img align="left" alt="Kushagra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GOD-OF-FIRE&&show_icons=true&theme=dracula" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=GOD-OF-FIRE&hide=java&layout=compact&theme=dracula" width="46%" />
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=GOD-OF-FIRE&theme=dracula" width="98%">
