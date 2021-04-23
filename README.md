@@ -3,7 +3,8 @@
 
 <h1 align="center"> Kushagra Gupta </h1>
 
-## About Me :love_you_gesture: ![](https://komarev.com/ghpvc/?username=GOD-OF-FIRE&color=green)  [![GitHub GOD-OF-FIRE](https://img.shields.io/github/followers/GOD-OF-FIRE?label=follow&style=social)](https://github.com/GOD-OF-FIRE)&nbsp;
+## About Me :love_you_gesture: 
+![](https://komarev.com/ghpvc/?username=GOD-OF-FIRE&color=green)  [![GitHub GOD-OF-FIRE](https://img.shields.io/github/followers/GOD-OF-FIRE?label=follow&style=social)](https://github.com/GOD-OF-FIRE)&nbsp;
 &nbsp; Hello everyone,<br>
 I'm __KUSHAGRA GUPTA__, 3rd __BTech__ Student in __Computer Science Engineering__ at __SRM Institute of Science and Technology__.
 - I like __Gaming__ and __Sketching__ apart from technical interests.
