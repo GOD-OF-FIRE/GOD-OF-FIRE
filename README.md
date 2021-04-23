@@ -21,6 +21,7 @@ I'm __KUSHAGRA GUPTA__, 3rd __BTech__ Student in __Computer Science Engineering_
 [![Foo](Logos1/5.png)](https://www.youtube.com/channel/UCPtHNEgopEEOA1NKUmWFDgA)
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/kushagra357)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/kushagra-gupta-5a92a812a/)
+[![Foo](Logos1/8.jpg)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kushagra357@gmail.com)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## GitHub Stats 🏅
 <img align="left" alt="Kushagra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GOD-OF-FIRE&&show_icons=true&theme=dracula" width="50%" />
