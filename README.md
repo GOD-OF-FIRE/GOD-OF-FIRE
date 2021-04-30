@@ -7,7 +7,7 @@
 
 &nbsp; Hello everyone,<br>
 ## About Me :love_you_gesture: 
-I'm __KUSHAGRA GUPTA__, 3rd __BTech__ Student in __Computer Science Engineering__ at __SRM Institute of Science and Technology__
+I'm __KUSHAGRA GUPTA__, 3rd __BTech__ Student in __Computer Science Engineering__ at __SRM Institute of Science and Technology__.
 - I like __Gaming__ and __Sketching__ apart from technical interests.
 - I do competitive coding and explore Data Science concepts. 
 - I enjoy collaborating with people on works of similar interest.
