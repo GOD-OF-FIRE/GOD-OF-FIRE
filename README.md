@@ -26,12 +26,11 @@ I'm __KUSHAGRA GUPTA__, 3rd __BTech__ Student in __Computer Science Engineering_
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/kushagra357)
 [![Foo](Logos1/9.png)](https://leetcode.com/kushagra357/)
 [![Foo](Logos1/5.png)](https://www.youtube.com/channel/UCPtHNEgopEEOA1NKUmWFDgA)
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## GitHub Stats 🏅
-<img align="left" alt="Kushagra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GOD-OF-FIRE&&show_icons=true&theme=dracula" width="50%" />
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GOD-OF-FIRE&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+<img align="left" alt="Kushagra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GOD-OF-FIRE&&show_icons=true&theme=dracula" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=GOD-OF-FIRE&hide=java&layout=compact&theme=dracula" width="46%" />
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=GOD-OF-FIRE&theme=dracula" width="98%">
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GOD-OF-FIRE&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
