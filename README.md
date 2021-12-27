@@ -28,6 +28,7 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/kushagra357)
 [![Foo](Logos1/9.png)](https://leetcode.com/kushagra357/)
 [![Foo](Logos1/5.png)](https://www.youtube.com/channel/UCPtHNEgopEEOA1NKUmWFDgA)
+[![Foo](Logos1/p.png)](https://god-of-fire.github.io/Kushagra/index)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## GitHub Stats 🏅
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GOD-OF-FIRE&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
