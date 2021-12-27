@@ -16,7 +16,7 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 - I enjoy collaborating with people on works of similar interest.
 - I'm on track for learning more about  Web Development, Artificial Intelligence,Machine learning and Data Science.
 - You can email me at ____kushgra357@gmail.com____. I'll try to respond as soon as possible!.
-- To see my Portfolio Click on:-  https://god-of-fire.github.io/Kushagra/index
+- To see my Portfolio Click on:-  [![Foo](Logos1/pp.png)](https://god-of-fire.github.io/Kushagra/index)https://god-of-fire.github.io/Kushagra/index
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## You can reach me on :point_down:
 [![Foo](Logos1/8.jpg)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kushagra357@gmail.com)
