@@ -12,7 +12,7 @@
 I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Engineering__ at __SRM Institute of Science and Technology__
 
 - I like __Gaming__ and __Sketching__ apart from technical interests.
-- I do competitive coding and explore Data Science concepts. 
+- Exploring WEB DEVELOPMENT (MERN) concepts. 
 - I enjoy collaborating with people on works of similar interest.
 - I'm on track for learning more about  Web Development, Artificial Intelligence,Machine learning and Data Science.
 - You can email me at ____kushgra357@gmail.com____. I'll try to respond as soon as possible!.
