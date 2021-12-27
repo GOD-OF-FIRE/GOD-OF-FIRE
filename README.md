@@ -14,7 +14,7 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 - I like __Gaming__ and __Sketching__ apart from technical interests.
 - I do competitive coding and explore Data Science concepts. 
 - I enjoy collaborating with people on works of similar interest.
-- I'm on track for learning more about Artificial Intelligence, Web Development, Machine learning and Data Science.
+- I'm on track for learning more about  Web Development, Artificial Intelligence,Machine learning and Data Science.
 - You can email me at ____kushgra357@gmail.com____. I'll try to respond as soon as possible!.
 - To see my Portfolio Click on:-  https://god-of-fire.github.io/Kushagra/index
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
