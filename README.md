@@ -17,9 +17,9 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 - I'm on track for learning more about  Web Development, Artificial Intelligence,Machine learning and Data Science.
 - You can email me at ____kushgra357@gmail.com____. I'll try to respond as soon as possible!.
 - To see my Portfolio Click on:-  [![Foo](Logos1/pp.png)](https://god-of-fire.github.io/Kushagra/index)https://god-of-fire.github.io/Kushagra/index
+<img align="left" width="46%" src="qr.png"  />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## You can reach me on :point_down:
-<img align="left" width="46%" src="qr.png"  />
 [![Foo](Logos1/8.jpg)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kushagra357@gmail.com)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/kushagra-gupta-5a92a812a/)
 [![Foo](Logos1/4.png)](https://www.instagram.com/kushagra._.99/)
@@ -30,8 +30,6 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 [![Foo](Logos1/9.png)](https://leetcode.com/kushagra357/)
 [![Foo](Logos1/5.png)](https://www.youtube.com/channel/UCPtHNEgopEEOA1NKUmWFDgA)
 [![Foo](Logos1/pp.png)](https://god-of-fire.github.io/Kushagra/index)
-
-<br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## GitHub Stats 🏅
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GOD-OF-FIRE&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
