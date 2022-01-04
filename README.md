@@ -38,4 +38,6 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 <!-- <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=GOD-OF-FIRE&layout=compact&theme=highcontrast" width="46%" /> -->
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GOD-OF-FIRE&theme=highcontrast" />
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=GOD-OF-FIRE&theme=juicyfresh" width="100%">
-<img src="qr.png" align="center" width="40%"/>
+<p align="center">
+  <img src="qr.png" width="40%"/>
+</p>
