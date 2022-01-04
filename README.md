@@ -20,7 +20,6 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## You can reach me on :point_down:
-![qr](qr.png| width=50)
 [![Foo](Logos1/8.jpg)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kushagra357@gmail.com)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/kushagra-gupta-5a92a812a/)
 [![Foo](Logos1/4.png)](https://www.instagram.com/kushagra._.99/)
@@ -39,4 +38,4 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 <!-- <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=GOD-OF-FIRE&layout=compact&theme=highcontrast" width="46%" /> -->
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GOD-OF-FIRE&theme=highcontrast" />
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=GOD-OF-FIRE&theme=juicyfresh" width="100%">
-
+<img src="qr.png" width="46%"/>
