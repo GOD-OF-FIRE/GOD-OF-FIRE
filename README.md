@@ -34,10 +34,11 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## GitHub Stats 🏅
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GOD-OF-FIRE&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GOD-OF-FIRE&theme=highcontrast" />
 <img align="left" alt="Kushagra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GOD-OF-FIRE&&show_icons=true&theme=highcontrast" />
 <!-- <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=GOD-OF-FIRE&layout=compact&theme=highcontrast" width="46%" /> -->
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GOD-OF-FIRE&theme=highcontrast" />
+
 <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GOD-OF-FIRE&bg_color=1F222E&color=eb34e8&line=eb34e8&point=FFFFFF&hide_border=true" />
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=GOD-OF-FIRE&theme=juicyfresh" width="100%">
 
