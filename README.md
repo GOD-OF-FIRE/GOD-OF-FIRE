@@ -46,6 +46,6 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=GOD-OF-FIRE&theme=juicyfresh" width="100%">
 
 <p align="center">
-  <img src="qr.png" width="40%"/>
+  <a href="https://god-of-fire.github.io/Kushagra/index"> <img src="qr.png" width="40%"/></a>
 </p>
 
