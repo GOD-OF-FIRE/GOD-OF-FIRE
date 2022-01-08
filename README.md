@@ -33,7 +33,7 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## GitHub Stats 🏅
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GOD-OF-FIRE&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GOD-OF-FIRE&theme=highcontrast)](https://github-readme-streak-stats.herokuapp.com/?user=GOD-OF-FIRE&theme=highcontrast)
 
 <!-- <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=GOD-OF-FIRE&layout=compact&theme=highcontrast" width="46%" /> --> 
 
