@@ -23,7 +23,6 @@ I'm __KUSHAGRA GUPTA__, 4th year __BTech__ Student in __Computer Science Enginee
 [![Foo](Logos1/8.jpg)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kushagra357@gmail.com)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/kushagra-gupta-5a92a812a/)
 [![Foo](Logos1/4.png)](https://www.instagram.com/kushagra._.99/)
-
 [![Foo](Logos1/3.png)](https://twitter.com/kushagra357)
 [![Foo](Logos1/1.png)](https://www.hackerrank.com/kushagra357)
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/kushagra357)
